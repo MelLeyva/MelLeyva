@@ -2,6 +2,11 @@
   
 <h1 align="center">Hi 👋, I'm Melissa  :computer: :ocean: :movie_camera: :tv:</h1>
 <h3 align="center">I'm a frontend developer from Mexico, a puzzle freak and a seas lover.</h3>
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;">
+	<img src="https://giphy.com/embed/8gJ28HfjAkc9y" alt="meme"/>
+</div>
+		
+	
 
 - 🔭 I’m currently working on [Burger Queen](https://github.com/MelLeyva/Burguer-Queen)
 
