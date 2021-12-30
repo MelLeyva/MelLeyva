@@ -1,14 +1,17 @@
 <img src="https://user-images.githubusercontent.com/85569519/145668477-0151dca1-a386-48cc-b77c-c2147306b154.png" alt=”mybanner”>
   
 <h1 align="center">Hi 👋, I'm Melissa  :computer: :ocean: :movie_camera: :tv:</h1>
-<h3 align="center">I'm a frontend developer from Mexico, a puzzle freak and a seas lover.</h3>
-<div style="width:100%;height:0;padding-bottom:66%;position:relative;">
-	<img src="https://giphy.com/embed/8gJ28HfjAkc9y" alt="meme"/>
-</div>
-		
-	
+<h3 align="center">I'm a frontend developer from Mexico, a puzzle freak, movies fan and a seas lover.</h3>
+<a href="https://media2.giphy.com/media/8gJ28HfjAkc9y/giphy.gif?cid=ecf05e47yh3xcer0v5nzmzdds16ljzi0rh46hmxvx3wlmdvy&rid=giphy.gif&ct=g" target="blue"><img align="right" src="https://media2.giphy.com/media/8gJ28HfjAkc9y/giphy.gif?cid=ecf05e47yh3xcer0v5nzmzdds16ljzi0rh46hmxvx3wlmdvy&rid=giphy.gif&ct=g" width="480" height="270"></a>
+
+
 
 - 🔭 I’m currently working on [Burger Queen](https://github.com/MelLeyva/Burguer-Queen)
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **mleyva0795@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
